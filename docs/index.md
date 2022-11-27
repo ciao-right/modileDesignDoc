@@ -1,11 +1,9 @@
 ---
 hero:
-  title: library
-  description: for me
+  title: BC’s Mobile UI
+  description: I want buy house
   actions:
-    - text: Hello
-      link: /
-    - text: World
+    - text: Go
       link: /
 features:
   - title: Hello
@@ -16,7 +14,6 @@ features:
     description: Put world description here
   - title: '!'
     emoji: 🚀
-    description: Put ! description here
+    description: for Mobile 
 ---
 
-designDoc

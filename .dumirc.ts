@@ -4,6 +4,6 @@ import path from 'path';
 export default defineConfig({
   outputPath: 'docs-dist',
   themeConfig: {
-    name: 'designDoc',
+    name: 'BC-Design',
   },
 });
